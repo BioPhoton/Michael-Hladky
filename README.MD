@@ -30,6 +30,7 @@ In case you are interested in talks, presentations here are some references:
 ## :pencil: Bio
 
 > Make education a voluntary thing!
+
 Michael is located in Austria Vienna. He is a certified [GoogleDeveloperExpert](https://developers.google.com/experts/people/michael-hladky),
 trainer developer and consultant in frontend development with focus in the field of Angular, RxJS, Typescript and Ionic.
 
@@ -137,7 +138,7 @@ I expect you to cover the cost involved for me.
 Often I can book my own flights as I book other appointments around events.
 Many of them aren't refundable.
 
-## :camera: Presenter Headshots
+## :camera: Presenter head shots
 
 [![Michael Hladky - Headshot 1](https://i.imgur.com/Rtx1VCh.jpg?1)](https://i.imgur.com/Rtx1VCh.jpg?1)
 [![Michael Hladky - Headshot 2](https://i.imgur.com/FhZXWjJ.jpg)](https://i.imgur.com/FhZXWjJ.jpg)

@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+plugins:
+- jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+- README.MD
+- ACTIVITIES_LIST_2018.MD
+- ACTIVITIES_LIST_2019.MD
