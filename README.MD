@@ -140,8 +140,8 @@ Many of them aren't refundable.
 
 ## :camera: Presenter head shots
 
-<img src="https://i.imgur.com/Rtx1VCh.jpg?1" alt="Michael Hladky - Headshot 1" title="Michael Hladky - Headshot 1" />
-<img src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - Headshot 2" title="Michael Hladky - Headshot 2" />
+<img width="150px" src="https://i.imgur.com/Rtx1VCh.jpg?1" alt="Michael Hladky - Headshot 1" title="Michael Hladky - Headshot 1" />
+<img width="150px" src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - Headshot 2" title="Michael Hladky - Headshot 2" />
 
 ## :camera: Presenter In Action
 <img width="150px" src="https://i.imgur.com/QkwLjH4.jpg" alt="Michael Hladky - WeAreDevelopers 2018" title="Michael Hladky - WeAreDevelopers 2018" />
