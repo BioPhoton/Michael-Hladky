@@ -3,7 +3,12 @@
 Hello My name is Michael thanks for your interest in my public speaking, trainings and workshops.
 I have defined presenter terms and here is an overview.
 I am a professional presenter with lots of experience.
-Therefore I want to make sure that there is no misconception about what I expect and deliver.
+Therefore I want to make sure that there is no misunderstanding
+regarding your event.
+
+Find my my public activities here:
+- [2019]
+- [2018]
 
 ## :wave: Personal information
 

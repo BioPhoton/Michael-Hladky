@@ -1,0 +1,9 @@
+plugins:
+- jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+- README.md
+- ACTIVITIES_LIST_2018.md
+- ACTIVITIES_LIST_2019.md
