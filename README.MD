@@ -144,10 +144,10 @@ Many of them aren't refundable.
 <img src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - Headshot 2" title="Michael Hladky - Headshot 2" />
 
 ## :camera: Presenter In Action
-<img src="https://i.imgur.com/QkwLjH4.jpg" alt="Michael Hladky - WeAreDevelopers 2018" title="Michael Hladky - WeAreDevelopers 2018" />
-<img src="https://i.imgur.com/yGAARRI.jpg" alt="Michael Hladky - ngVikings 2018" title="Michael Hladky - ngVikings 2018" />
-<img src="https://i.imgur.com/WQxh742.jpg" alt="Michael Hladky - ngTalks 1 2018" title="Michael Hladky - ngTalks 1 2018" />
-<img src="https://i.imgur.com/GZgNbDk.jpg" alt="Michael Hladky - ngTalks 2 2018" title="Michael Hladky - ngTalks 2 2018" />
-<img src="https://i.imgur.com/watVSer.jpg" alt="Michael Hladky - ngTalks 3 2018" title="Michael Hladky - ngTalks 3 2018" />
-<img src="https://i.imgur.com/0xCZK2B.jpg" alt="Michael Hladky - ngTalks 4 2018" Michael Hladky - ngTalks 4 2018" />
-<img src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - ngTalks 5 2018" title="Michael Hladky - ngTalks 5 2018" />
+<img width="150px" src="https://i.imgur.com/QkwLjH4.jpg" alt="Michael Hladky - WeAreDevelopers 2018" title="Michael Hladky - WeAreDevelopers 2018" />
+<img width="150px" src="https://i.imgur.com/yGAARRI.jpg" alt="Michael Hladky - ngVikings 2018" title="Michael Hladky - ngVikings 2018" />
+<img width="150px" src="https://i.imgur.com/WQxh742.jpg" alt="Michael Hladky - ngTalks 1 2018" title="Michael Hladky - ngTalks 1 2018" />
+<img width="150px" src="https://i.imgur.com/GZgNbDk.jpg" alt="Michael Hladky - ngTalks 2 2018" title="Michael Hladky - ngTalks 2 2018" />
+<img width="150px" src="https://i.imgur.com/watVSer.jpg" alt="Michael Hladky - ngTalks 3 2018" title="Michael Hladky - ngTalks 3 2018" />
+<img width="150px" src="https://i.imgur.com/0xCZK2B.jpg" alt="Michael Hladky - ngTalks 4 2018" Michael Hladky - ngTalks 4 2018" />
+<img width="150px" src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - ngTalks 5 2018" title="Michael Hladky - ngTalks 5 2018" />
