@@ -140,15 +140,14 @@ Many of them aren't refundable.
 
 ## :camera: Presenter head shots
 
-[![Michael Hladky - Headshot 1](https://i.imgur.com/Rtx1VCh.jpg?1)](https://i.imgur.com/Rtx1VCh.jpg?1)
-[![Michael Hladky - Headshot 2](https://i.imgur.com/FhZXWjJ.jpg)](https://i.imgur.com/FhZXWjJ.jpg)
+<img src="https://i.imgur.com/Rtx1VCh.jpg?1" alt="Michael Hladky - Headshot 1" title="Michael Hladky - Headshot 1" />
+<img src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - Headshot 2" title="Michael Hladky - Headshot 2" />
 
 ## :camera: Presenter In Action
-[![Michael Hladky - WeAreDevelopers 2018](https://i.imgur.com/QkwLjH4.jpg)](https://i.imgur.com/QkwLjH4.jpg)
-[![Michael Hladky - ngVikings 2018](https://i.imgur.com/yGAARRI.jpg)](https://i.imgur.com/yGAARRI.jpg)
-[![Michael Hladky - ngTalks 1 2018](https://i.imgur.com/WQxh742.jpg)](https://i.imgur.com/WQxh742.jpg)
-[![Michael Hladky - ngTalks 2 2018](https://i.imgur.com/GZgNbDk.jpg)](https://i.imgur.com/GZgNbDk.jpg)
-[![Michael Hladky - ngTalks 3 2018](https://i.imgur.com/watVSer.jpg)](https://i.imgur.com/watVSer.jpg)
-[![Michael Hladky - ngTalks 4 2018](https://i.imgur.com/lQjBSHA.jpg)](https://i.imgur.com/lQjBSHA.jpg)
-[![Michael Hladky - ngTalks 5 2018](https://i.imgur.com/0xCZK2B.jpg)](https://i.imgur.com/0xCZK2B.jpg)
-
+<img src="https://i.imgur.com/QkwLjH4.jpg" alt="Michael Hladky - WeAreDevelopers 2018" title="Michael Hladky - WeAreDevelopers 2018" />
+<img src="https://i.imgur.com/yGAARRI.jpg" alt="Michael Hladky - ngVikings 2018" title="Michael Hladky - ngVikings 2018" />
+<img src="https://i.imgur.com/WQxh742.jpg" alt="Michael Hladky - ngTalks 1 2018" title="Michael Hladky - ngTalks 1 2018" />
+<img src="https://i.imgur.com/GZgNbDk.jpg" alt="Michael Hladky - ngTalks 2 2018" title="Michael Hladky - ngTalks 2 2018" />
+<img src="https://i.imgur.com/watVSer.jpg" alt="Michael Hladky - ngTalks 3 2018" title="Michael Hladky - ngTalks 3 2018" />
+<img src="https://i.imgur.com/0xCZK2B.jpg" alt="Michael Hladky - ngTalks 4 2018" Michael Hladky - ngTalks 4 2018" />
+<img src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - ngTalks 5 2018" title="Michael Hladky - ngTalks 5 2018" />
