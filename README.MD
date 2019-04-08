@@ -7,8 +7,8 @@ Therefore I want to make sure that there is no misunderstanding
 regarding your event.
 
 Find my my public activities here:
-- [2019]
-- [2018]
+- [2019](./ACTIVITY_LIST_2018.MD)
+- [2018](./ACTIVITY_LIST_2019.MD)
 
 ## :wave: Personal information
 
