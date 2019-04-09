@@ -43,7 +43,7 @@ As an active community member, he is the organizer and founder of:
 as well as founder and leading head of [Angular Austria](www.angular-austria.at), a non-profit association to support Angular.
 
 Furthermore he is cooperating with several events and conferences in IT.
-As previous Head Of Program at [WeAreDevelopers](https://events.wearedevelopers.com) he was responsible for the conferenc content, speaker evaluation, moderation and stage concepts for one of the biggest IT-Congress in Europe.
+As previous Head Of Program at [WeAreDevelopers](https://events.wearedevelopers.com) he was responsible for the conference content, speaker evaluation, moderation and stage concepts for one of the biggest IT-Congress in Europe.
 Michael is part of the advisory board of [EnterJS](https://www.enterjs.de) he helps to create a high quality lineup for the conference as well as making sure the invited speakers and sponsors and attendees have an amazing time at the event.
 For the austrian open source award [openminds](https://www.openminds.at) he evaluates projects and ideas as part of the jury.
 
