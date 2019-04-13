@@ -7,12 +7,12 @@ I am a professional presenter with lots of experience.
 Therefore I want to make sure that there is a seamless cooperation with your company/event/organisation.
 
 
-## :earth_asia: Public activities
+## 🌏 Public activities
 Find the listing of my public activities here:
-- [2019](./ACTIVITY_LIST_2019.MD)
-- [2018](./ACTIVITY_LIST_2018.MD)
+- [2019](./public-activities_2019.md)
+- [2018](./public-activities_2018.md)
 
-## :wave: Personal information
+## 😃 Personal information
 
 * **Name:** Michael Hladky
 * **Company:** Self Employed
@@ -22,7 +22,7 @@ Find the listing of my public activities here:
 * **Github:** https://github.com/BioPhoton
 * **Location:** Vienna, Austria
 
-## :vhs: Videos of note
+## 📼 Videos of note
 
 In case you are interested in talks, presentations here are some references:
 
@@ -33,7 +33,7 @@ In case you are interested in talks, presentations here are some references:
 
 For a complete list of all my recordings check out
 
-## :pencil: Bio
+## 📝 Bio
 
 > Make education a voluntary thing!
 
@@ -54,7 +54,7 @@ Michael is part of the advisory board of [EnterJS](https://www.enterjs.de) he he
 For the austrian open source award [openminds](https://www.openminds.at) he evaluates projects and ideas as part of the jury.
 
 
-## :love_letter: What I am available for
+## 💌 What I am available for
 
 - [x] Talks
 - [x] Workshops
@@ -64,7 +64,7 @@ For the austrian open source award [openminds](https://www.openminds.at) he eval
 - [x] Moderation / MC Duties
 - [x] Mentoring
 
-## :gift: Subjects I'm interested
+## 🎁 Subjects I'm interested
 
 - [x] Community building
 - [x] JavaScript/CSS/HTML - Web development
@@ -76,7 +76,7 @@ For the austrian open source award [openminds](https://www.openminds.at) he eval
 - [x] Continuous Integration / Continuous Deployment
 - [x] Development tools
 
-## :collision: Dont's and show stoppers
+## 💥 Dont's and show stoppers
 
 From my own experience I know it is hard to organise events, and have every think planned and
 in mind. In general I try to get my own experience and opinion about ppl and events.
@@ -90,7 +90,7 @@ Here is a general list of things that I see as minimum for events:
 * :x: The event should have at least minimal support for the community.
       As community enthusiast  and active contributor I welcome support of the community and will actively share the event wherever I'm active.
 
-## :dancer: My deliveries at your event
+## 💃 My deliveries at your event
 
 Here's what I will do when invited as a presenter at your event.
 
@@ -101,7 +101,7 @@ Here's what I will do when invited as a presenter at your event.
 - [x] **Promote my presence at your event.** I will tweet before, during and after the event about what I will do at your event and interesting things I encounter.
 - [x] **Publish my slides after my talk.**  After the conference I will share the slides over a public lik. All the slides will have the conferences logo/brand included.
 
-## :computer: My setup
+## 💻 My setup
 
 I am pretty open to different ways of presenting, but here is my perfect setup
 
@@ -115,7 +115,7 @@ If I need to use a central computer instead of mine, please consider the followi
 - [x] I general a rarly use videos or audios in my slides but some GIF animations. If this is the case i will send this files also front off for a teat.
 - [x] I don't need notes, but I want to have a remote clicker and a "nanny screen" where I can see my slides instead of having to refer to the screen behind me.
 
-## :pray: My expectations
+## 🙏 My expectations
 
 I am a professional presenter, and will do a lot to ensure that the event will be a success.
 As such, I have a few expectations I want met:
@@ -124,7 +124,7 @@ As such, I have a few expectations I want met:
 - [ ] **Deliver a professional stage setup.** I bring my own laptop and connectors, but I expect at least a power plug and a microphone and a "nanny screen".
 - [ ] **Record and publish my talk.** Recordings are a great advertisement for your conference I welcome recordings and will also share them on social media.
 
-## :money_with_wings: Cost and payments/expenses
+## 💶 Cost and payments/expenses
 
 - [ ] **If possible, I'd like you to cover my travel and hotel.** I don't expect first class or business class flights, but I do expect to arrive a day before the event and leave the day after with lodging organised in between.
 I would like you to take care of bookings but I can also book and pay myself and get reimbursed.
@@ -135,7 +135,7 @@ If you book me for a workshop and we did not agree on something else I expect to
 
 There are always options to haggle about these things. I'm a reasonable person and if you spend your time creating a great event where money isn't your main goal, we'll find a way.
 
-## :boom: Things can go wrong...
+## 💥 Things can go wrong...
 
 Even with the best intentions, there may be trouble and I might not be available for your event.
 You may also change your mind. If that happens, here's what I want to happen.
@@ -146,16 +146,15 @@ I expect you to cover the cost involved for me.
 Often I can book my own flights as I book other appointments around events.
 Many of them aren't refundable.
 
-## :camera: Presenter head shots
+## 📷 Presenter head shots
 
 <img width="150px" src="https://i.imgur.com/Rtx1VCh.jpg?1" alt="Michael Hladky - Headshot 1" title="Michael Hladky - Headshot 1" />
 <img width="150px" src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - Headshot 2" title="Michael Hladky - Headshot 2" />
 
-## :camera: Presenter In Action
+## 📷 Presenter In Action
 <img width="150px" src="https://i.imgur.com/QkwLjH4.jpg" alt="Michael Hladky - WeAreDevelopers 2018" title="Michael Hladky - WeAreDevelopers 2018" />
 <img width="150px" src="https://i.imgur.com/yGAARRI.jpg" alt="Michael Hladky - ngVikings 2018" title="Michael Hladky - ngVikings 2018" />
 <img width="150px" src="https://i.imgur.com/WQxh742.jpg" alt="Michael Hladky - ngTalks 1 2018" title="Michael Hladky - ngTalks 1 2018" />
 <img width="150px" src="https://i.imgur.com/GZgNbDk.jpg" alt="Michael Hladky - ngTalks 2 2018" title="Michael Hladky - ngTalks 2 2018" />
 <img width="150px" src="https://i.imgur.com/watVSer.jpg" alt="Michael Hladky - ngTalks 3 2018" title="Michael Hladky - ngTalks 3 2018" />
-<img width="150px" src="https://i.imgur.com/0xCZK2B.jpg" alt="Michael Hladky - ngTalks 4 2018" Michael Hladky - ngTalks 4 2018" />
-<img width="150px" src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - ngTalks 5 2018" title="Michael Hladky - ngTalks 5 2018" />
+<img width="150px" src="https://i.imgur.com/0xCZK2B.jpg" alt="Michael Hladky - ngTalks 4 2018" title="Michael Hladky - ngTalks 4 2018" />
