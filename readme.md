@@ -6,6 +6,13 @@ To speed up the process and help to save some time I have summed up to most impo
 I am a professional presenter with lots of experience.
 Therefore I want to make sure that there is a seamless cooperation with your company/event/organisation.
 
+---
+[Public-activities](Public-activities)
+[Personal-information](Personal-information)
+[Videos](Videos)
+[Bio](Bio)
+[What-I-am-available-for](What-I-am-available-for)
+---
 
 ## 🌏 Public activities
 Find the listing of my public activities here:
@@ -22,7 +29,7 @@ Find the listing of my public activities here:
 * **Github:** https://github.com/BioPhoton
 * **Location:** Vienna, Austria
 
-## 📼 Videos of note
+## 📼 Videos
 
 In case you are interested in talks, presentations here are some references:
 
@@ -82,12 +89,12 @@ From my own experience I know it is hard to organise events, and have every thin
 in mind. In general I try to get my own experience and opinion about ppl and events.
 Here is a general list of things that I see as minimum for events:
 
-* :x: I don't speak on events that are known for treating the community, speakers as well as attendees disrespectfully.
-* :x: I know not every small meetup have an code of conduct,
+* I don't speak on events that are known for treating the community, speakers as well as attendees disrespectfully.
+* I know not every small meetup have an code of conduct,
       but I expect a certain level of awareness regarding such things.
-  :x: For conferences and bigger events I expect them to have and enforce a code of conduct.
-* :x: I don't "pay to play". As a presenter, the minimum I expect is travel expanse and hotel as well as full access to the event. (community events are negotiable)
-* :x: The event should have at least minimal support for the community.
+  For conferences and bigger events I expect them to have and enforce a code of conduct.
+* I don't "pay to play". As a presenter, the minimum I expect is travel expanse and hotel as well as full access to the event. (community events are negotiable)
+* The event should have at least minimal support for the community.
       As community enthusiast  and active contributor I welcome support of the community and will actively share the event wherever I'm active.
 
 ## 💃 My deliveries at your event
