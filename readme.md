@@ -7,11 +7,12 @@ I am a professional presenter with lots of experience.
 Therefore I want to make sure that there is a seamless cooperation with your company/event/organisation.
 
 ---
-[Public-activities](Public-activities)
-[Personal-information](Personal-information)
+[Public activities](Public-activities)
+[Personal information](Personal-information)
 [Videos](Videos)
 [Bio](Bio)
-[What-I-am-available-for](What-I-am-available-for)
+[What I am available for](What-I-am-available-for)
+[Subjects I'm interested in](Subjects-I'm-interested-in)
 ---
 
 ## 🌏 Public activities
@@ -83,16 +84,17 @@ For the Austrian open source award [openminds](https://www.openminds.at) he eval
 - [x] Continuous Integration / Continuous Deployment
 - [x] Development tools
 
-## :responsibility: What’s important for me
+## 😇 What’s important for me
 
 I know that it’s hard to organise events and have everything planned and in mind. In general, I try to gain my own view and opinion about people and events.
 But nevertheless, as an active part of the community I believe that events should support the people and community and fulfill the following points:
 
-* :x: I expect the conference to have an enforced code of conduct.
+
 * :x: I don't speak at events that are known for treating the community, speakers as well as attendees disrespectfully.
-* :x: I don't "pay to play". As a presenter, the minimum I expect is travel expense and hotel as well as full access to the event.
+* :x: I expect the conference to have an enforced code of conduct.
 * :x: The event should have at least minimal support for the community.
      As a community enthusiast and active contributor I welcome support of the community and will actively share the event wherever I'm active.
+* :x: I don't "pay to play". As a presenter, the minimum I expect is travel expense and hotel as well as full access to the event.
 
 ## 💃 My deliveries at your event
 
