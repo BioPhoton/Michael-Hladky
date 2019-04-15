@@ -7,11 +7,18 @@ I am a professional presenter with lots of experience.
 Therefore I want to make sure that there is a seamless cooperation with your company/event/organisation.
 
 ---
-[Public-activities](Public-activities)
-[Personal-information](Personal-information)
-[Videos](Videos)
-[Bio](Bio)
-[What-I-am-available-for](What-I-am-available-for)
+- [Public activities](Public-activities)
+- [Personal information](Personal-information)
+- [Videos](Videos)
+- [Bio](Bio)
+- [What I am available for](What-I-am-available-for)
+- [Subjects I'm interested in](Subjects-I'm-interested-in)
+- [What’s important for me](What’s-important-for-me)
+- [My deliveries at your event](My-deliveries-at-your-event)
+- [My setup](My-setup)
+- [My expectations](My-expectations)
+- [Things can go wrong...](Things-can-go-wrong...)
+- [Presenter Pictures](Presenter-Pictures)
 ---
 
 ## 🌏 Public activities
@@ -83,7 +90,7 @@ For the Austrian open source award [openminds](https://www.openminds.at) he eval
 - [x] Continuous Integration / Continuous Deployment
 - [x] Development tools
 
-## :responsibility: What’s important for me
+## 🤗 What’s important for me
 
 I know that it’s hard to organise events and have everything planned and in mind. In general, I try to gain my own view and opinion about people and events.
 But nevertheless, as an active part of the community I believe that events should support the people and community and fulfill the following points:
@@ -148,12 +155,14 @@ You may also change your mind. If that happens, here's what I want to happen.
 - [x] When for some reason you decide to slash my speaking slot, I expect you to cover the incurred expenses for me.
 Often I book my own flights as I book other appointments around events and many of them aren't refundable.
 
-## 📷 Presenter head shots
+## 📷 Presenter Pictures
+
+### head shots
 
 [![Michael Hladky - Headshot 1](https://i.imgur.com/Rtx1VCh.jpg?1)](https://i.imgur.com/Rtx1VCh.jpg?1)
 [![Michael Hladky - Headshot 2](https://i.imgur.com/FhZXWjJ.jpg)](https://i.imgur.com/FhZXWjJ.jpg)
 
-## 📷 Presenter In Action
+### In action
 [![Michael Hladky - WeAreDevelopers 2018](https://i.imgur.com/QkwLjH4.jpg)](https://i.imgur.com/QkwLjH4.jpg)
 [![Michael Hladky - ngVikings 2018](https://i.imgur.com/yGAARRI.jpg)](https://i.imgur.com/yGAARRI.jpg)
 [![Michael Hladky - ngTalks 1 2018](https://i.imgur.com/WQxh742.jpg)](https://i.imgur.com/WQxh742.jpg)
