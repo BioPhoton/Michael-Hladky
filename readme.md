@@ -7,7 +7,7 @@ I am a professional presenter with lots of experience.
 Therefore I want to make sure that there is a seamless cooperation with your company/event/organisation.
 
 ---
-- [Public activities][Public-activities]
+- [Public-activities][Public activities]
 - [Personal information][Personal-information]
 - [Videos][Videos]
 - [Bio][Bio]
