@@ -39,7 +39,7 @@ https://www.angular.fi/events/conferences/2019/home
 
 ---
 
-##RxJS Level UP – Essentials Workshop
+## RxJS Level UP – Essentials Workshop
 **Description**
 
 **Date**
@@ -55,7 +55,9 @@ https://js-kongress.com
 **Links**
 - https://js-kongress.com/sessions/workshop-rxjs-level-up-essentials/
 
-Angular Architectures for Enterprise-Applications - Workshop
+---
+
+## Angular Architectures for Enterprise-Applications - Workshop
 
 **Description**
 
@@ -74,7 +76,7 @@ https://angular-college.com/
 
 ---
 
-##RxJS LevenUp - Essentials Workshop
+## RxJS LevenUp - Essentials Workshop
 
 **Description**
 
@@ -140,7 +142,7 @@ https://angular-college.com/
 
 **Location**
 ngBe Conference
-Ghent, Belgium. Europe
+Ghent, Belgium, Europe
 
 **Website**
 https://ng-be.org/
@@ -427,7 +429,7 @@ https://angular-college.com/
 2017.12.20 - 2017.12.23
 
 **Location**
-Austria Trend Hotel Ananas, Wien
+Austria Trend Hotel Ananas
 Vienna, Austria. Europe
 
 **Website**

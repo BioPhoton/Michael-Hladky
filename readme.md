@@ -23,8 +23,9 @@ Therefore I want to make sure that there is a seamless cooperation with your com
 -->
 ## 🌏 Public activities
 Find my public activities here:
-- [2019](./ACTIVITY_LIST_2019.MD)
-- [2018](./ACTIVITY_LIST_2018.MD)
+- [2020](./public-activities_2020.md)
+- [2019](./public-activities_2019.md)
+- [2018](./public-activities_2018.md)
 
 ## 😃 Personal information
 
