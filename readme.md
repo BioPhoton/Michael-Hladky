@@ -5,9 +5,9 @@ To speed up the process and help to save some time I have summed up the most imp
 
 I am a professional presenter with lots of experience.
 Therefore I want to make sure that there is a seamless cooperation with your company/event/organisation.
-
+<!--
 ---
-- [Public activities][Public-activities]
+- [Public-activities][Public activities]
 - [Personal information][Personal-information]
 - [Videos][Videos]
 - [Bio][Bio]
@@ -20,7 +20,7 @@ Therefore I want to make sure that there is a seamless cooperation with your com
 - [Things can go wrong...][Things-can-go-wrong...]
 - [Presenter Pictures][Presenter-Pictures]
 ---
-
+-->
 ## 🌏 Public activities
 Find my public activities here:
 - [2019](./ACTIVITY_LIST_2019.MD)
