@@ -1,26 +1,11 @@
 # Michael Hladky cooperation terms
 
-Hello! My name is Michael. Thanks for your interest in my public speaking, trainings and workshops.
+Hello! My name is Michael.
+Thanks for your interest in my public speaking, trainings and workshops.
 To speed up the process and help to save some time I have summed up the most important information in an overview here.
 
 I am a professional presenter with lots of experience.
 Therefore I want to make sure that there is a seamless cooperation with your company/event/organisation.
-<!--
----
-- [Public-activities][Public activities]
-- [Personal information][Personal-information]
-- [Videos][Videos]
-- [Bio][Bio]
-- [What I am available for][What-I-am-available-for]
-- [Subjects I'm interested in][Subjects-I'm-interested-in]
-- [What’s important for me][What’s-important-for-me]
-- [My deliveries at your event][My-deliveries-at-your-event]
-- [My setup][My-setup]
-- [My expectations][My-expectations]
-- [Things can go wrong...][Things-can-go-wrong...]
-- [Presenter Pictures][Presenter-Pictures]
----
--->
 
 ## 🌏 Public activities and workshops
 Find my public speaking here:
