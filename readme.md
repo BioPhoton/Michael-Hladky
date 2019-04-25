@@ -151,10 +151,11 @@ Often I book my own flights as I book other appointments around events and many 
 
 ## 📷 Presenter Pictures
 
-### Headshots
+### Head shots
 
 <img width="150px" src="https://i.imgur.com/Rtx1VCh.jpg?1" alt="Michael Hladky - Headshot 1" title="Michael Hladky - Headshot 1" />
 <img width="150px" src="https://i.imgur.com/FhZXWjJ.jpg" alt="Michael Hladky - Headshot 2" title="Michael Hladky - Headshot 2" />
+<img width="150px" src="https://i.imgur.com/iQ4qGhh.jpg" alt="Michael Hladky - Headshot Square" title="Michael Hladky - Headshot Square" />
 
 ### In action
 
