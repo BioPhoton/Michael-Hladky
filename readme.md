@@ -9,15 +9,15 @@ Therefore I want to make sure that there is seamless cooperation with your compa
 
 ## 🌏 Public activities and workshops
 Find my public speaking here:
-- [2020](./public-activities_2020)
-- [2019](./public-activities_2019)
-- [2018](./public-activities_2018)
+- [2020](./public-activities_2020.md)
+- [2019](./public-activities_2019.md)
+- [2018](./public-activities_2018.md)
 
 Find my public workshops here:
-- [2020](./public-workshops_2020)
-- [2019](./public-workshops_2019)
-- [2018](./public-workshops_2018)
-- [2017](./public-workshops_2017)
+- [2020](./public-workshops_2020.md)
+- [2019](./public-workshops_2019.md)
+- [2018](./public-workshops_2018.md)
+- [2017](./public-workshops_2017.md)
 
 ## 😃 Personal information
 
